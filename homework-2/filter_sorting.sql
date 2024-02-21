@@ -23,3 +23,6 @@ WHERE discontinued != 1
 SELECT MIN(unit_price), MAX(unit_price)
 FROM products
 WHERE discontinued != 1 AND units_in_stock >= 20
+
+--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
+--https://github.com/Tsunanory/postgres-homeworks
